@@ -580,7 +580,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 
 ┌──⭓ *Random Menu*
 │
-│⭔ ${prefix}porno
+
 │⭔ ${prefix}hentai
 │⭔ ${prefix}quotesanime
 │⭔ ${prefix}motivasi
